@@ -74,6 +74,9 @@ VALUES
     ('2020', 'Turkish Grand Prix', '2020-10-25', 'Istanbul', 'Lewis Hamilton', 
     1, 'British', 'Mercedes', 6, 63, '1:29:56.828', 25, 2020-10-25),
 
+    ('2020', 'Turkish Grand Prix', '2020-10-25', 'Istanbul', 'Lewis Hamilton', 
+    1, 'British', 'Mercedes', 6, 63, '1:29:56.828', 25, 2020-10-25),
+
     ('2020', 'British Grand Prix', '2020-10-25', 'Silverstone', 'Lewis Hamilton', 
     1, 'British', 'Mercedes', 1, 63, '1:29:56.828', 25, 2020-10-25);
 
